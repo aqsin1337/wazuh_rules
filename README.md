@@ -1,1 +1,1 @@
-#useful wazuh rules - manual or ai generated
+# useful wazuh rules - manual or ai generated
